@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Channel Sounding Demo</string>
+    <string name="status_idle">Idle</string>
+    <string name="distance_unknown">-- cm</string>
+    <string name="start">Start</string>
+    <string name="rate_normal">Rate: Normal</string>
+    <string name="rate_frequent">Rate: Frequent</string>
+    <string name="rate_infrequent">Rate: Infrequent</string>
+</resources>
